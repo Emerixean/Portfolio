@@ -12,4 +12,4 @@ the shapes onto a canvas in their designated colors. For this program, circles a
 triangles in green, and rectangles in red. By utilizing the dimensions of each shape, the program is able to
 correctly draw the shapes to scale of each other. As a finishing touch, the program then calculates the total
 area of each shape and displays it in the center of the shape. The end result looks similar to this:
-![alt text](Portfolio/Lab5D_Complete.png)
+![alt text](https://github.com/Emerixean/Portfolio/blob/Program-1/Lab5D_Complete.png)
