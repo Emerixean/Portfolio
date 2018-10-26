@@ -57,6 +57,6 @@ This is the display for the hangman as represented in the program:
 				break;
 		}
 
-This is a switch statementthat checks for the number of missed guesses (previously refered to as the score). With each missed guess, another piece of the hangman is displayed. When the number of misses finally reaches 10 the entire hangman is displayed and the player loses.
+This is a switch statement that checks for the number of missed guesses (previously refered to as the score). With each missed guess, another piece of the hangman is displayed. When the number of misses finally reaches 10 the entire hangman is displayed and the player loses.
 
 Arrays are the focus of the logic behind the game. Every word is converted into an array. The player's current guesses is its own array filled with the appropriate amount of blank spaces. The two arrays are referenced against each other as more and more guesses are made. When a correct guess is made the player's array is update to replace the blank spaces with the correct letter.When an incorrect guess is made, the program notifies the player and proceeds to count it as a miss. The end result is a fun little game of hangman.
